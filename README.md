@@ -1,5 +1,31 @@
 # Portfolio
-## I am a fourth-year Bachelor of Science in Finance student with a strong interest in investments, financial analysis, and wealth management. Throughout my academic journey, I have developed a solid foundation in finance and continue to expand my knowledge through continuous learning and practical experiences. I aspire to build a career in the financial industry, where I can contribute to informed decision-making and long-term value creation.
-### Investing in Dreams and Growth
-#### branding/Logo.png & Docs/Research Infographic.pdf
-##### The sample designs above reflect both my academic and career background. The logo was inspired by my interest in asset management. Meanwhile, the infographic is a revised version of my SHS research infographic, where I improved the visual hierarchy to make the information more engaging. 
+## Hello, I'm Stacy!
+### Welcome to my Github portfolio. 
+
+I am a 4th year B.S. in Finance student. Alongside my studies, I am passionate about exploring new concepts, developing practical skills, and challenging myself through creative and academic work. I value curiosity, creativity, and perseverance, and I believe that every experience offers an opportunity to learn something new. My goal is to keep expanding my knowledge, building valuable experiences, and creating work that reflects both my interests and commitment to lifelong learning.
+
+### What You'll Find Here
+
+- Academic Work
+- Creative Designs
+- Research and Documentation
+
+### Skills & Interests 
+- Problem Solving
+- Project Development
+- Design and Creativity
+
+### My Goals
+- Expand opportunities that expand my knowledge and creating a work that reflects both my interests and commitment to lifelong learning
+- Develop creative and technical skills
+- Collaborate with others and share knowledge
+
+### Featured Projects
+
+This portfolio includes selected projects, designs, and materials that represent my interests, achievements, and ongoing development.
+
+### Let's Connect
+
+THANK YOU FOR VISITING MY PORTFOLIO!
+
+Feel Free to explore my work and connect with me as I continue building new experiences and projects.
